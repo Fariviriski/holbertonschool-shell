@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -t /tmp/u [0-9]
+mv -t /tmp/u *[0-9]*
