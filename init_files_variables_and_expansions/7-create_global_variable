@@ -1,2 +1,2 @@
 #!/bin/bash
-Best School="gloval variable
+export Best="Best" School="School"
